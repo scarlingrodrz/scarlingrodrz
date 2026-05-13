@@ -1,6 +1,6 @@
-# Hi there ✨
+## Hi there ✨
 
-# scarling rodriguez ✦
+# Scarling Rodriguez ✦
 
 cybersecurity & networking student  
 dominican republic 🇩🇴
