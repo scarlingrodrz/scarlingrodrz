@@ -4,7 +4,7 @@
 
 
 
-# Scarling Rodriguez ✦
+# 𝕾𝖈𝖆𝖗𝖑𝖎𝖓𝖌 𝕽𝖔𝖉𝖗𝖎𝖌𝖚𝖊𝖟✦
 
 I'm cybersecurity & networking student  
 From Dominican Republic
