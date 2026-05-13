@@ -1,6 +1,6 @@
 Hi there ✨
 
-I'm Cybersecurity & Networking Student Scarling Rodriguez 📍 Dominican Republic 🇩🇴  
+I'm Scarling, a cybersecurity & networking student based in Dominican Republic 
 
 💻 About Me
 Passionate about technology, cybersecurity, and continuous growth.  
