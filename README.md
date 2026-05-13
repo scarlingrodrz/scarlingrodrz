@@ -9,29 +9,13 @@ Currently building skills in networking, Linux, and security fundamentals while 
 
 I enjoy learning new technologies, solving problems, and creating projects that help me improve every day.
 
-🚀 Focus Areas
-
-✦ Cybersecurity  
-✦ Networking  
-✦ Linux & System Administration  
-✦ Digital Projects  
-✦ Continuous Learning  
-
-🛠️ Technologies & Tools
-
-- Cisco
-- Linux
-- Python
-- Networking Fundamentals
-- Cybersecurity Basics
-
  🎮 Fun Facts About Me
 
-🎮 I love playing video games  
-☕ Coffee is one of my favorite things ever  
-🍦 Ice cream always makes my day better  
-🏖️ I enjoy going to the beach and relaxing  
-📚 I love reading and learning new things
+- I love playing video games  
+- Coffee is one of my favorite things ever  
+- Ice cream always makes my day better  
+- I enjoy going to the beach and relaxing  
+- I love reading and learning new things
 <!--
 **scarlingrodrz/scarlingrodrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
