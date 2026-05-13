@@ -1,4 +1,9 @@
-<img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NzMzd4Z3kzdnIyMWZ5bGI0YmtrMmg1aDNnaWlvcGd4bGFkeWs3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLb3fGlWDnBMk/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NzMzd4Z3kzdnIyMWZ5bGI0YmtrMmg1aDNnaWlvcGd4bGFkeWs3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLb3fGlWDnBMk/giphy.gif)" width="400">
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/56/5d/67/565d67b0808e022c7e5d9cccef5e06fb.jpg" width="500">
+</p>
+
+
+
 # Scarling Rodriguez ✦
 
 I'm cybersecurity & networking student  
