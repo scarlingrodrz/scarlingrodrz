@@ -1,8 +1,17 @@
 # Hi there ✨
 
-I’m Scarling, a Cybersecurity & Networking student from the Dominican Republic. 
-I’m currently studying Python, and Cisco CyberOps Associate while building skills in networking, Linux, and security analysis. I enjoy learning through hands-on practice and working on digital and tech-related projects.
+# scarling rodriguez ✦
 
+cybersecurity & networking student  
+dominican republic 🇩🇴
+
+---
+
+## about me
+
+currently studying python, cybersecurity, and cisco cyberops associate while building skills in networking, linux, and security analysis.
+
+interested in technology, digital projects, and continuous learning.
 
 ---
 
