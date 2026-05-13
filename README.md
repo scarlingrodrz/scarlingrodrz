@@ -2,26 +2,26 @@
 
 # Scarling Rodriguez ✦
 
-cybersecurity & networking student  
-dominican republic 🇩🇴
+I'm cybersecurity & networking student  
+From Dominican Republic
 
 ---
 
-## about me
+## About me
 
-currently studying python, cybersecurity, and cisco cyberops associate while building skills in networking, linux, and security analysis.
+Currently studying python, cybersecurity, and cisco cyberops associate while building skills in networking, linux, and security analysis.
 
 interested in technology, digital projects, and continuous learning.
 
 ---
 
-## tech & tools
+## Tech & tools
 
 cisco • packet tracer • kali linux • wireshark • nmap • linux • virtualbox • python • tcp/ip • routing & switching
 
 ---
 
-## fun facts
+## Fun facts
 
 🎮 video games  
 ☕ coffee lover  
