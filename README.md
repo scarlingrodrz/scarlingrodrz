@@ -1,20 +1,15 @@
-## Hi there ✨
+# Hi there ✨
 
-# I'm Cybersecurity & Networking Student Scarling Rodriguez 📍 Dominican Republic 🇩🇴  
+I'm Cybersecurity & Networking Student Scarling Rodriguez 📍 Dominican Republic 🇩🇴  
 
-
----
-
-## 💻 About Me
+💻 About Me
 
 Passionate about technology, cybersecurity, and continuous growth.  
 Currently building skills in networking, Linux, and security fundamentals while exploring the world of digital projects and IT infrastructure.
 
 I enjoy learning new technologies, solving problems, and creating projects that help me improve every day.
 
----
-
-## 🚀 Focus Areas
+🚀 Focus Areas
 
 ✦ Cybersecurity  
 ✦ Networking  
@@ -22,9 +17,7 @@ I enjoy learning new technologies, solving problems, and creating projects that 
 ✦ Digital Projects  
 ✦ Continuous Learning  
 
----
-
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 - Cisco
 - Linux
@@ -32,9 +25,7 @@ I enjoy learning new technologies, solving problems, and creating projects that 
 - Networking Fundamentals
 - Cybersecurity Basics
 
----
-
-## 🎮 Fun Facts About Me
+ 🎮 Fun Facts About Me
 
 🎮 I love playing video games  
 ☕ Coffee is one of my favorite things ever  
