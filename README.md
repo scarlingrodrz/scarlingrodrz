@@ -1,18 +1,31 @@
-Hi there ✨
+# Hi there ✨
 
 I’m Scarling, a Cybersecurity & Networking student from the Dominican Republic. 
 I’m currently studying Python, and Cisco CyberOps Associate while building skills in networking, Linux, and security analysis. I enjoy learning through hands-on practice and working on digital and tech-related projects.
 
-Technologies and tools I use include Cisco, Packet Tracer, Kali Linux, Wireshark, Nmap, Linux, VirtualBox, Python, TCP/IP, routing and switching, and network security fundamentals.
 
- Fun facts about me
-- I love playing video games  
-- Coffee is one of my favorite things ever  
-- Ice cream always makes my day better  
-- I enjoy going to the beach and relaxing  
-- I love reading and learning new things
+---
+
+## tech & tools
+
+cisco • packet tracer • kali linux • wireshark • nmap • linux • virtualbox • python • tcp/ip • routing & switching
+
+---
+
+## fun facts
+
+🎮 video games  
+☕ coffee lover  
+🍦 ice cream enthusiast  
+🏖️ beach days >>  
+📚 love reading
+
+---
+
+## contact
 
 📧 scarlingdrt@gmail.com
+
 <!--
 **scarlingrodrz/scarlingrodrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
